@@ -174,9 +174,6 @@
             <requireJavaVersion>
               <version>1.8</version>
             </requireJavaVersion>
-            <requireMavenVersion>
-              <version>[3.5.0,${maven.version}]</version>
-            </requireMavenVersion>
             <bannedDependencies>
               <excludes>
                 <!-- use slf4j -->
